@@ -13,7 +13,6 @@
 Soy Esteban Romero, estudiante de Ingeniería de Software en UNIMINUTO (Sede Bello, Colombia), actualmente en sexto semestre. Cuento con experiencia previa como Técnico en Software, desarrollando prototipos web y realizando pruebas de usabilidad y gestión de datos. Me gusta trabajar en proyectos de principio a fin: desde el diseño de la base de datos hasta la entrega de un resultado funcional.
 
 - 👯 Estoy abierto a colaborar en proyectos de código abierto.
-- ✔ Pregúntame cualquier cosa, estaré encantado de ayudarte.
 - 🎮 Fuera de la tecnología, me gusta jugar videojuegos, 🎵 escuchar música y 📺 ver series y anime.
 
 <br>
